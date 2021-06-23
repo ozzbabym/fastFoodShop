@@ -1,0 +1,64 @@
+.ItemCart {
+    width: 288px;
+    height: 360px;
+    cursor: pointer;
+}
+
+.ItemCart:hover {
+    background: white;
+    border-radius: 10px;
+}
+
+.wrapperCart {
+    margin: 36px 36px 155px 36px;
+    text-align: center;
+}
+
+.circlePlus {
+    flex: 1;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.circleChange {
+    flex: 1;
+    height: 40px;
+    border-radius: 20px;
+    background: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    font-size: 20px;
+    cursor: pointer;
+    color: white;
+}
+
+.circleChange div{
+    padding: 3px 10px;
+}
+
+.circlePlus:hover {
+    background: black;
+    color: white;
+}
+
+.circlePopular {
+    width: 48px;
+    height: 48px;
+    border-radius: 50%;
+    color: white;
+    background: red;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 12px;
+}

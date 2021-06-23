@@ -1,0 +1,26 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+    margin: 0 95px;
+}
+
+.basket {
+    min-width: 80px;
+    height: 36px;
+    background: #E4002B;
+    border-radius: 20px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.basket div {
+    padding: 5px 10px;
+    height: 30px;
+    color: white;
+    font-weight: bold;
+}
+.basket img {
+    padding-top: 5px;
+}
+

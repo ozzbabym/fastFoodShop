@@ -1,0 +1,14 @@
+.navbar {
+    margin: 10px 10px;
+}
+.stick {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    background: white;
+}
+.navbarWrapper {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 30px 95px;
+}

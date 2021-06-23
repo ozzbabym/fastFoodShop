@@ -1,0 +1,49 @@
+.buttonDelivery {
+    width: 146px;
+    height: 48px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+}
+
+.delivery {
+    margin: 50px 95px;
+    padding-left: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.buttons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.adress {
+    margin-top: 50px;
+    font-size: 32px;
+    display: flex;
+    align-items: center;
+    margin: 0px 95px;
+}
+
+.adress input {
+    width: 210px;
+    height: 42px;
+    background: #F7F6F5;
+    border: none;
+    font-size: 20px;
+    margin-left: 10px;
+    padding-left: 10px;
+}
+.adress span {
+    margin-left: 10px;
+}
+
+@media screen and (max-width: 700px) {
+    .delivery {
+        display: block;
+    }
+}

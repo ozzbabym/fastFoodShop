@@ -1,0 +1,11 @@
+.displayFlex {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: space-around;
+}
+
+.wrappPadding {
+    margin: 0px 95px;
+    padding-top: 50px;
+}
