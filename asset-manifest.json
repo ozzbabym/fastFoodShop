@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/fastFoodShop/static/css/main.7a1c0b66.chunk.css",
+    "main.js": "/fastFoodShop/static/js/main.2af0a84d.chunk.js",
+    "main.js.map": "/fastFoodShop/static/js/main.2af0a84d.chunk.js.map",
+    "runtime-main.js": "/fastFoodShop/static/js/runtime-main.f4bfa398.js",
+    "runtime-main.js.map": "/fastFoodShop/static/js/runtime-main.f4bfa398.js.map",
+    "static/js/2.d0a3e7ca.chunk.js": "/fastFoodShop/static/js/2.d0a3e7ca.chunk.js",
+    "static/js/2.d0a3e7ca.chunk.js.map": "/fastFoodShop/static/js/2.d0a3e7ca.chunk.js.map",
+    "index.html": "/fastFoodShop/index.html",
+    "static/css/main.7a1c0b66.chunk.css.map": "/fastFoodShop/static/css/main.7a1c0b66.chunk.css.map",
+    "static/js/2.d0a3e7ca.chunk.js.LICENSE.txt": "/fastFoodShop/static/js/2.d0a3e7ca.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f4bfa398.js",
+    "static/js/2.d0a3e7ca.chunk.js",
+    "static/css/main.7a1c0b66.chunk.css",
+    "static/js/main.2af0a84d.chunk.js"
+  ]
+}
